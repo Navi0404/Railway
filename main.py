@@ -95,12 +95,7 @@ if opr==1:
         
         obj.bookticket(booking_id,pid,cls,seat_no,tid,source,dest,train_no)
         
-
-        
-        
-        
-        
-        
+ 
              
 if opr==3:
     pass
